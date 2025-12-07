@@ -46,10 +46,10 @@ A modern, fast, and responsive music player application. TuneX makes listening t
 
 > *Replace the placeholders below with actual screenshots or GIFs of your application!*
 
-![Main Player Screen](docs/screenshots/main_player.png)
+![Main Player Screen](img/2.jpg)
 *Main Player Window*
 
-![Playlist View](docs/screenshots/playlist_view.png)
+![Playlist View](img/1.jpg)
 *Playlist Management*
 
 ---
